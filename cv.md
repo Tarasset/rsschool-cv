@@ -72,10 +72,17 @@ public class Trip {
         System.out.println("In miles2 that is " + square*0.621371);
     }
 }
-
+```
 
 *********
-## Образование:
+## Курсы:
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+* CS50 
+* FreeCodeCamp
 
+## Языки:
+* English - B2-C1
+* German - A2
+* Russian - native
 		
 *********
