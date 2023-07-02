@@ -3,6 +3,8 @@
 ### Имя: Ксения Рябова 
 ### Контакты для связи: 
 Телефон: +7-987-432-36-57
+
+
 Email: crasnowa.kseniya@gmail.com
 
 *********
@@ -12,13 +14,13 @@ Email: crasnowa.kseniya@gmail.com
 
 *********
 ## Навыки: 
-*HTML
-*CSS/SASS
-*JavaScript (Basic)
-*Git
-*Java (Basic)
-*Figma
-*Photoshop
+* HTML
+* CSS/SASS
+* JavaScript (Basic)
+* Git
+* Java (Basic)
+* Figma
+* Photoshop
 
 *********
 ## Пример кода:
@@ -70,7 +72,8 @@ public class Trip {
         System.out.println("In miles2 that is " + square*0.621371);
     }
 }
-```
+
+
 *********
 ## Образование:
 
